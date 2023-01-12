@@ -20,5 +20,8 @@ Mit Hilfe eines Elgato Stream Decks den Status von Fahrzeugen in Fireboard setze
 - Jeder Button ist einem Fahrzeug und dessen Status zugewiesen. Für die Statusmeldungen 1, 2, 3 und 4 werden daher vier Buttons belegt.
 - Es können beliebig viele Ordner und Unterordner erstellt werden. Auch eine Navigation über verschiedene "Seiten" ist im Stream Deck möglich um viele Fahrzeuge abzubilden.
 
+## Bekannte Einschränkungen
+- Aktuell wird ein erfolgreich gesetzter Status nicht per Stream Deck zurück gemeldet
+
 ## Beispiel
 ![Stream Deck Beispiel](https://github.com/DerRheingold/Stream-Deck-und-Fireboard-Integration/blob/main/Streak%20Deck.jpg)
